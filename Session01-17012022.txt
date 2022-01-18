@@ -1,0 +1,13 @@
+Session 01 - 17/01/2022
+
+Waterfall SDLC - Agile SDLC
+
+100 lines of code - 1
+100 -2
+100 - 3
+.
+.
+.
+.100 - 10
+
+1000 lines of code - dev/qa/uat/prod
